@@ -71,7 +71,7 @@ Opening Round clubs play 22 SC-counting games (vs 23 for others).
 Keepers from these clubs get 22.5 games (0.5 = bench cover approximation).
 
 ### Monte Carlo Confidence
-200 simulations with +/-15% Gaussian noise on projections.
+1000 simulations with +/-15% Gaussian noise on projections.
 Selection frequency = confidence that a player belongs in the optimal team.
 
 ## Typical Workflow for Team Announcements
