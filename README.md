@@ -28,7 +28,7 @@ python run_optimiser.py
 - **run_optimiser.py** — Reads the spreadsheet, runs dual-objective optimizer + Monte Carlo
 
 ### Input Data
-- **AFL_supercoach_playerlist_2026_R0** — Raw player JSON scraped from SC website
+- **AFL_supercoach_playerlist_2026_R0** — Raw player JSON
 - **rookie_projections.csv** — Custom rookie projections (from preseason analysis)
 - **midprice_projections.csv** — Custom mid-price breakout projections
 
