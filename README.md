@@ -3,7 +3,7 @@
 ## Quick Start
 
 ```bash
-pip install pulp openpyxl
+pip install pulp openpyxl tqdm
 
 # Step 1: Generate the projections spreadsheet
 python prepare_projections.py
